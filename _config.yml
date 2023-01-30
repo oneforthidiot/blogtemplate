@@ -1,14 +1,14 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: GainWithCrypto
+title: Gain With Crypto
+description: Stay up-to-date on the latest cryptocurrency prices with our real-time crypto price tracker.
+Track Bitcoin, Ethereum, Litecoin, and other top digital assets. Get alerts, charts, and analysis on the crypto market.
 tags:
   - blog
   - template
-  - jekyll
+  - crypto
   - theme
-  - netlify
+  - investing
 show_hero: true
 menu:
   - title: Home
